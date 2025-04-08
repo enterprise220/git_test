@@ -1,3 +1,8 @@
 Hi first git test
 small update
+<<<<<<< HEAD
 edit
+=======
+new branch
+again change
+>>>>>>> dev
