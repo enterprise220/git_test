@@ -6,3 +6,8 @@ edit
 new branch
 again change
 >>>>>>> dev
+
+
+-----------------
+work branch on remote git repository
+-----------------
